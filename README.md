@@ -37,14 +37,7 @@ SO THAT I can keep a list of books to purchase
     THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
 # Live URL
 
-(https://israel386.github.io/friendly-parakeet/)
-
-# ScreenShots
-
-![screenshots](assets/Screenshot%202022-05-08%20223347.png)
-![screenshots](assets/Screenshot%202022-05-08%20223429.png)
-![screenshots](assets/Screenshot%202022-05-08%20223532.png)
-![screenshots](assets/Screenshot%202022-05-08%20223735.png)
+(https://fathomless-anchorage-67451.herokuapp.com)
 
 ## Note
-All acceptance criteria have been met, code follows a logical structure and has been updated to generate password. 
+All acceptance criteria have been met, code follows a logical structure. 
